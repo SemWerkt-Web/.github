@@ -1,4 +1,4 @@
-# Semwerkt | Technical Architecture & Version Control
+# Semwerkt | Shopify
 
 Welcome to the central GitHub organization of **Semwerkt**. As a full-service online marketing agency based in Hoorn, we deliver scalable e-commerce solutions where technical excellence and data-driven results are at the core of everything we do.
 
